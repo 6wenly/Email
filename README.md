@@ -1,3 +1,5 @@
-How to Write an Email
-
-1. Address: Hi/Hello XX, 
+# How to Write an Email
+## Business/Informal
+### Address
+Hi/Hello xx, 
+### 
